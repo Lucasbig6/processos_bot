@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "moment": "^2.30.1",
+    "node-persist": "^4.0.3",
+    "playwright": "^1.48.2",
+    "sqlite3": "^5.1.7"
+  }
+}
